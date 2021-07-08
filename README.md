@@ -43,7 +43,7 @@ Here are the results of my homework assignment.
 
         2015 results ![](https://github.com/ArielleEagan/NU_DataScience_Bootcamp/blob/abf2078c0b3bb5e855b9db812152bd63274b5cbe/2015%20results.png)
 
-        2016 results ![](https://github.com/ArielleEagan/NU_DataScience_Bootcamp/blob/abf2078c0b3bb5e855b9db812152bd63274b5cbe/2016%20results.png)
+        2016 results ![](2016 results.png)
 
 *Bonus VBA Script: "VBA_Challenge_ArielleBell_BonusAttempt"*
 
