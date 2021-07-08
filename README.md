@@ -20,6 +20,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
         Bonus 1: Use your data to determine whether the mean or the median summarizes the data more     meaningfully.
         Bonus 2: Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
     
+    
 ## 2. VBA_Challenge 
 Due July 7 
 
@@ -27,23 +28,21 @@ Here are the results of my homework assignment.
 
 *Main VBA script: "VBA_Challenge_ArielleBell"*
 
-    This is the main script. It will loop through all the stocks for one year and output the following information:
+This is the main script. It will loop through all the stocks for one year and output the following information:
 
-                * The ticker symbol.
+- The ticker symbol.
+- Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
+- The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
+- The total stock volume of the stock.
+- It also has conditional formatting that will highlight positive change in green and negative change in red.
 
-                * Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
+2016 results ![](https://github.com/ArielleEagan/NU_DataScience_Bootcamp/blob/abf2078c0b3bb5e855b9db812152bd63274b5cbe/2016%20results.png)
 
-                * The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
+2015 results ![](https://github.com/ArielleEagan/NU_DataScience_Bootcamp/blob/abf2078c0b3bb5e855b9db812152bd63274b5cbe/2015%20results.png)
 
-                * The total stock volume of the stock.
+2014 results ![](https://github.com/ArielleEagan/NU_DataScience_Bootcamp/blob/abf2078c0b3bb5e855b9db812152bd63274b5cbe/2014%20results.png)
 
-                *  It also has conditional formatting that will highlight positive change in green and negative change in red.
 
-        2014 results ![](https://github.com/ArielleEagan/NU_DataScience_Bootcamp/blob/abf2078c0b3bb5e855b9db812152bd63274b5cbe/2014%20results.png)
-
-        2015 results ![](https://github.com/ArielleEagan/NU_DataScience_Bootcamp/blob/abf2078c0b3bb5e855b9db812152bd63274b5cbe/2015%20results.png)
-
-        2016 results ![](2016 results.png)
 
 *Bonus VBA Script: "VBA_Challenge_ArielleBell_BonusAttempt"*
 
