@@ -25,7 +25,7 @@ Due July 7
 
 Here are the results of my homework assignment. 
 
-Main VBA script: "VBA_Challenge_ArielleBell"
+*Main VBA script: "VBA_Challenge_ArielleBell"*
 
     This is the main script. It will loop through all the stocks for one year and output the following information:
 
@@ -45,5 +45,8 @@ Main VBA script: "VBA_Challenge_ArielleBell"
 
         2016 results ![](relative url where images is located/refrence_image.png)
 
-Bonus VBA Script: "VBA_Challenge_ArielleBell_BonusAttempt"
-I was not successful at the bonus but have included my attempted script here so that I may continue to learn. Thank you in advance for any feedback!
+*Bonus VBA Script: "VBA_Challenge_ArielleBell_BonusAttempt"*
+
+        I was not successful at the bonus but have included my attempted script here so that I may continue to learn. 
+        Thank you in advance for any feedback!
+
