@@ -1,5 +1,6 @@
 # Homework assignments 
 
+
 ## 1. Excel Homework 
 
 Background 
@@ -19,3 +20,30 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
         Bonus 1: Use your data to determine whether the mean or the median summarizes the data more     meaningfully.
         Bonus 2: Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
     
+## 2. VBA_Challenge 
+Due July 7 
+
+Here are the results of my homework assignment. 
+
+Main VBA script: "VBA_Challenge_ArielleBell"
+
+    This is the main script. It will loop through all the stocks for one year and output the following information:
+
+                * The ticker symbol.
+
+                * Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
+
+                * The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
+
+                * The total stock volume of the stock.
+
+                *  It also has conditional formatting that will highlight positive change in green and negative change in red.
+
+        2014 results ![](relative url where images is located/refrence_image.png)
+
+        2015 results ![](relative url where images is located/refrence_image.png)
+
+        2016 results ![](relative url where images is located/refrence_image.png)
+
+Bonus VBA Script: "VBA_Challenge_ArielleBell_BonusAttempt"
+I was not successful at the bonus but have included my attempted script here so that I may continue to learn. Thank you in advance for any feedback!
